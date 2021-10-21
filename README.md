@@ -33,4 +33,4 @@ Besides the elements related to those libraries, additional data to be input by 
 
 # Acknowledgements
 
-I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our TA, Alejandro Esquivel, and out Student Success Manager, Angelica Baraona. I also found the collective Stack Overflow wisdom essential as ever. Regarding PyViz and the visualization process overall I utilized information from Holoviews.com and the tech website collective in general. Finally, the Python books were helpful as I continued my learning process.
+I would like to first acknowledge the guidance and teaching of our FinTech Boot Camp Instructor, Garth Mortensen, our TA, Alejandro Esquivel, and out Student Success Manager, Angelica Baraona. I also found the collective Stack Overflow wisdom essential as ever. Regarding PyViz and the visualization process overall I utilized information from Holoviews.com, hvplot.holoviz.org, geeks for geeks.org, towardsdatascience.com, and the tech website collective in general. Finally, "Python Data Science Handbook" by Jake VanderPlas was as always helpful as I continued my learning process.
