@@ -1,7 +1,18 @@
-# HW5_Python_Opoly
-Homework 5 _ PyViz
+#### *PyViz_HW_5 which is related to Unit 6*
+# Pythonic Monopoly
 
+This file accompanies the new Real Estate Dashboard being provided to Harold's company. 
 
+## Goal of This Notebook 
+The goal of these analysis tools is to provide your customers with a more complete set of portfolio options through better dashboard information.
+
+### Part I - Personal Financial Planner
+
+With this planner, your customers can update as needed the real estate datasets that are being analyzed. 
+
+### Part II - Interactive Visualizations Dashboard
+
+This dashboard provides all the available information in a clear, easy-to-use format. 
 
 
 # Technical Notes
